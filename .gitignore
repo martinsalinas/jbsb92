@@ -6,3 +6,4 @@
 /app/phpunit.xml
 /build/
 /composer.phar
+/app/config/parameters.yml
